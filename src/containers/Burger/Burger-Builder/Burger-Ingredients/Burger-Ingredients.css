@@ -1,0 +1,84 @@
+.TopBun{
+    width: 100%;
+    height: 80px;
+    background-color: #fc5223;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+  }
+  .BottomBun {
+    width: 100%;
+    height: 65px;
+    background-color: #fc5223;
+    margin-top: 10px;
+  }
+  
+  .Cheese {
+    height: 10px;
+    width: 100%;
+    background-color: yellow;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .Meat {
+    height: 30px;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #ff0000;
+  }
+  .Salads {
+    height: 30px;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: green;
+  }
+  .Seeds {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+  }
+  .Seed1 {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+  .Seed2 {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 30%;;
+  }
+  .Seed3 {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 10%;;
+  }
+  .Seed4 {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 60%;;
+  }
+  .Seed5 {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 80%;;
+  }
+
+  .Burger {
+      height: 300px;
+      overflow-y: auto;
+      width: 50%;
+      margin: 0 auto;
+  }

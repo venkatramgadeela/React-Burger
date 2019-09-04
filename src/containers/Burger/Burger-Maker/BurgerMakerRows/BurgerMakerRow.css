@@ -1,0 +1,19 @@
+.Row {
+    margin: 0 auto;
+    width: 50%;
+    color: white;
+    font-weight: 400;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+}
+.Container {
+    margin: 0 auto
+}
+.Container > button {
+    padding: 10px;
+    margin-left: 20px;
+    background-color: #f4d942;
+    box-shadow: 0 2px #f7f7f7
+}
